@@ -1,0 +1,1 @@
+The full dataset in CSV format is available at: https://pjreddie.com/projects/mnist-in-csv/
